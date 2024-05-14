@@ -30,6 +30,5 @@ Hi My name is Mohamed Ahmed<br>Deep Learning Image Processing Computer Vision<br
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=moh2236945&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
