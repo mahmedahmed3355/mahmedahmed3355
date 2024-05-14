@@ -1,9 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+ Mohamed Ahmed!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Mohamed ahmed!;" />
 </h1>
-
 ## 💫 About Me:
 Hi My name is Mohamed Ahmed<br>Deep Learning Image Processing Computer Vision<br>I'm working as computer vision for more than 5 years. Using PyTorch framework<br>I have experience in Feature Extraction image processing-Image classification-Image Segmentation-Object Detection, Image satellite processing. Image enhancement and restoration<br>Building classification and object detection models using PyTorch<br>Design and implement algorithms for image segmentation and feature extraction<br>3D reconstruction and motion estimation<br>ROS<br>Also, I have some activity in Algorithm trading-BlockChain<br><br>🌍  I'm based in Egypt<br>✉️  You can contact me at engmohamedelshrbeny@gmail.com<br>🧠  I'm learning Robotics
 
