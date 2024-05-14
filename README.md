@@ -13,6 +13,8 @@
 
 - 🤝 I’m looking for help with [🤝 I’m looking for help with](project link)
 
+- 📝 I regularly write articles on [https://deeplearning4computervision.blogspot.com/](https://deeplearning4computervision.blogspot.com/)
+
 - 📫 How to reach me **engmohamedelshrbeny@gmail.com**
 
 - 📄 Know about my experiences [wwwww](wwwww)
