@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
-![<moh2236945>'s Stats](https://github-readme-stats.vercel.app/api?username=<moh2236945>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 <h3 align="center">A passionate Computer Vision developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moh2236945&label=Profile%20views&color=0e75b6&style=flat" alt="moh2236945" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moh2236945" alt="moh2236945" /></a> </p>
 
-- 🔭 I’m currently working on [🔭 I’m currently working on](project link)
+- 🔭 I’m currently working as [🔭ML & Algo trading ]
 
-- 🌱 I’m currently learning **🌱 I’m currently learning**
+- 🌱 I’m currently learning **🌱 Kubernetes**
 
 - 👯 I’m looking to collaborate on [👯 I’m looking to collaborate on](project link)
 
