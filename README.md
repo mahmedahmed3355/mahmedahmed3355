@@ -10,15 +10,13 @@
 
 - 🌱 I’m currently learning **🌱 Kubernetes**
 
-- 👯 I’m looking to collaborate on [👯 I’m looking to collaborate on](project link)
-
-- 🤝 I’m looking for help with [🤝 I’m looking for help with](project link)
+- 👯 I’m looking to collaborate on [👯 Machine learning and trading]
 
 - 📝 I regularly write articles on [https://deeplearning4computervision.blogspot.com/](https://deeplearning4computervision.blogspot.com/)
 
 - 📫 How to reach me **engmohamedelshrbeny@gmail.com**
 
-- 📄 Know about my experiences [wwwww](wwwww)
+- 📄 Know about my experiences [[wwwww](https://www.linkedin.com/feed/update/urn:li:activity:7023196171577737216?utm_source=share&utm_medium=member_desktop)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
