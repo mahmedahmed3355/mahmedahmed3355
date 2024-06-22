@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate Computer Vision developer from Egypt</h3>
 
-![<https://github.com/moh2236945>'s Stats](https://github-readme-stats.vercel.app/api?username=<https://github.com/moh2236945>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## 🚀 About Me
