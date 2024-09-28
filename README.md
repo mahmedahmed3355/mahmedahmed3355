@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mahmed Ahmed</h1>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Hi 👋, I'm Mahmed Ahmed </h2>
 
-<h3 align="center">A passionate Computer Vision developer </h3>
-
-
+<h3 align="center">A Computer Vision developer </h3>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mahmedahmed3355" alt="mahmedahmed3355"  width="60%"/><br> 
 
 
+<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  About Me
 
-
-## 🚀 About Me
-
-- 🔭 I’m currently working as [🔭ML & Algo trading ]
+- 🔭 I’m currently working as [🔭ML & Data science ]
 
 - 🌱 I’m currently learning **🌱 Kubernetes**
 
@@ -19,9 +15,8 @@
 
 - 📝 I regularly write articles on [https://deeplearning4computervision.blogspot.com/](https://deeplearning4computervision.blogspot.com/)
 
-- 📫 How to reach me **mahmed_ahmed@tutamail.com**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on **mahmed_ahmed@tutamail.com**
 
-- 📄 Know about my experiences [[wwwww](https://www.linkedin.com/feed/update/urn:li:activity:7023196171577737216?utm_source=share&utm_medium=member_desktop)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,3 +41,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moh2236945&label=Profile%20views&color=0e75b6&style=flat" alt="moh2236945" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moh2236945" alt="moh2236945" /></a> </p>
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+
+</div>
