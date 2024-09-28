@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Mahmed Ahmed</h1>
 
-<h3 align="center">A passionate Computer Vision developer from Egypt</h3>
+<h3 align="center">A passionate Computer Vision developer </h3>
 
 
 
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **🌱 Kubernetes**
 
-- 👯 I’m looking to collaborate on [👯 Machine learning and trading]
+- 👯 I’m looking to collaborate on [👯 Computer Vision]
 
 - 📝 I regularly write articles on [https://deeplearning4computervision.blogspot.com/](https://deeplearning4computervision.blogspot.com/)
 
-- 📫 How to reach me **engmohamedelshrbeny@gmail.com**
+- 📫 How to reach me **mahmed_ahmed@tutamail.com**
 
 - 📄 Know about my experiences [[wwwww](https://www.linkedin.com/feed/update/urn:li:activity:7023196171577737216?utm_source=share&utm_medium=member_desktop)]
 
