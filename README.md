@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://deeplearning4computervision.blogspot.com/](https://deeplearning4computervision.blogspot.com/)
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on **mahmed_ahmed@tutamail.com**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on **mohamedahmedelshrbeny@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
