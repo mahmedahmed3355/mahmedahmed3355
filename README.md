@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-ahmed-700019a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ahmed-700019a5/" height="30" width="40" /></a>
-<a href="https://kaggle.com/moh2236945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moh2236945" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohamed ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamed ahmed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/moh2236945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moh2236945" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-ahmed-700019a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mohamed-ahmed-700019a5/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mohamed22369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moh2236945" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/engmohamedelshr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamed ahmed" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohamed2236945/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moh2236945" height="30" width="40" /></a>
 <a href="/https://deeplearning4computervision.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://deeplearning4computervision.blogspot.com/" height="30" width="40" /></a>
 </p>
 
