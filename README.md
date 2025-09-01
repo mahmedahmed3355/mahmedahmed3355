@@ -7,15 +7,14 @@
 
 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  About Me
 
-- 🔭 I’m currently working as [🔭ML & Data science ]
+- 🔭I am a skilled Machine Learning Engineer specializing in Python and PyTorch, with extensive experience in computer vision, including image processing, segmentation, and object detection. My expertise spans advanced AI domains, such as large language models (LLMs) with Retrieval-Augmented Generation (RAG), agent-based architectures, multi-agent systems, and techniques like SFT and RLHF. I am proficient with popular frameworks and tools including LangChain, LangGraph, LangSmith, GCP, Docker, Kubernetes, and GitHub. I have successfully built and deployed numerous projects across these technologies, demonstrating strong capabilities in end-to-end ML development, cloud integration, and scalable system design.
 
-- 🌱 I’m currently learning **🌱 Kubernetes**
-
-- 👯 I’m looking to collaborate on [👯 Computer Vision]
 
 - 📝 I regularly write articles on [https://deeplearning4computervision.blogspot.com/](https://deeplearning4computervision.blogspot.com/)
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on **mohamed_ahmed_335588@hotmail.com**
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on **engmohamedelshrbeny@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
