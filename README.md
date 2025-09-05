@@ -9,12 +9,16 @@
 
 - 🔭I am a skilled Machine Learning Engineer specializing in Python and PyTorch, with extensive experience in computer vision, including image processing, segmentation, and object detection. My expertise spans advanced AI domains, such as large language models (LLMs) with Retrieval-Augmented Generation (RAG), agent-based architectures, multi-agent systems, and techniques like SFT and RLHF. I am proficient with popular frameworks and tools including LangChain, LangGraph, LangSmith, GCP, Docker, Kubernetes, and GitHub. I have successfully built and deployed numerous projects across these technologies, demonstrating strong capabilities in end-to-end ML development, cloud integration, and scalable system design.
 
-- I am a skilled Machine Learning Engineer specializing in Python and PyTorch, with expertise in:
+- **I am a skilled Machine Learning Engineer specializing in Python and PyTorch, with expertise in:**
 
 - **Computer Vision:** Image processing, segmentation, object detection, OCR
-- **Large Language Models (LLMs):** RAG, SFT, RLHF, Agent-based systems, multi-agent collaboration
+- **ML & CV:** PyTorch, TensorFlow, OpenCV, scikit-learn, Pandas, Seaborn  
+- **Large Language Models (LLMs):** RAG, SFT, RLHF, Agent-based systems, multi-agent collaboration,Evaluation,Fine Tunning
 - **MLOps & Deployment:** Docker, Kubernetes, FastAPI, Cloud (GCP)
 - **Frameworks & Tools:** LangChain, LangGraph, LangSmith, PyTorch, TensorFlow, OpenCV,Agno,Crew AI
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Others:** Linux, Git, Qt, Hadoop,Model Drift,Jenkins,DVC,Circle CI
+
 
 I have successfully built and deployed multiple end-to-end projects, demonstrating strong capabilities in scalable ML systems and cloud integration.
 
