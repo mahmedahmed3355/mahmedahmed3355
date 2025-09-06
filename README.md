@@ -49,6 +49,13 @@
 **Other:** Hadoop, Qt, Git  
 
 ---
+## Publications
+
+**Paddy Leaf Disease Classification using an Enhanced CoAtNet with MobileNetV2 and Triple Attention**
+
+**https://zenodo.org/doi/10.5281/zenodo.17068685**
+
+--
 
 ## 🔹 LeetCode Stats
 
