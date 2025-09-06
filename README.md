@@ -30,6 +30,7 @@
 | Medical Image Chatbot   | RAG+Chorme db|[Link](https://github.com/mahmedahmed3355/Medical_chatbot_RAG)|
 | Smart-Hotel-Reservation-System-AI-Powered|LightGBM OCR Agent|[Link](https://github.com/mahmedahmed3355/Smart-Hotel-Reservation-System-AI-Powered)
 |Attentition Library for Computer vision| Several Attentition Techniques in Computer Vision|[Link](https://github.com/mahmedahmed3355/attention-in-cv)
+|CAMELYON17-Breast-Cancer-Detection| diagnose breast cancer|[Link](https://github.com/mahmedahmed3355/CAMELYON17-Breast-Cancer-Detection)|
 
 ---
 
