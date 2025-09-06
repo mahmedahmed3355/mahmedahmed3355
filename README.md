@@ -29,6 +29,7 @@
 | AI News Agent Team | Multi-agent educational content generator | [Link](https://github.com/mahmedahmed3355/News_Research-AI) |
 | Medical Image Chatbot   | RAG+Chorme db|[Link](https://github.com/mahmedahmed3355/Medical_chatbot_RAG)|
 | Smart-Hotel-Reservation-System-AI-Powered|LightGBM OCR Agent|[Link](https://github.com/mahmedahmed3355/Smart-Hotel-Reservation-System-AI-Powered)
+|Attentition Library for Computer vision| Several Attentition Techniques in Computer Vision|[Link](https://github.com/mahmedahmed3355/attention-in-cv)
 
 ---
 
