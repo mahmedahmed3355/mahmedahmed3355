@@ -14,7 +14,7 @@
 - Proficient in **MLOps & Deployment**:
   - Docker, Kubernetes, FastAPI, Cloud Integration (GCP, Heroku)
 - Frameworks & Tools:
-  - PyTorch, TensorFlow, OpenCV, LangChain, LangGraph, LangSmith, scikit-learn, Pandas
+  - PyTorch, TensorFlow, OpenCV, LangChain, LangGraph, LangSmith, scikit-learn, Pandas,Jenkins,Mlflow,Kubeflow
 
 ---
 
