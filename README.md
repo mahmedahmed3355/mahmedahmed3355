@@ -36,7 +36,7 @@
 
 ## 🔹 Contact Me
 
-- Email: [mohamed_ahmed_335588@hotmail.com](mailto:mohamed_ahmed_335588@hotmail.com)  
+- Email: [mohamed_ahmed_335588@hotmail.com](mailto:ML_mohamed_ahmed_87_outlook.com)  
 - Email: [engmohamedelshrbeny@gmail.com](mailto:engmohamedelshrbeny@gmail.com)  
 - LinkedIn: [mohamed-ahmed-700019a5](https://www.linkedin.com/in/mohamed-ahmed-700019a5/)  
 - Blog: [DeepLearning4ComputerVision](https://deeplearning4computervision.blogspot.com/)
