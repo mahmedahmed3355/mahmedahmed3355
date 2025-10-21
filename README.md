@@ -48,6 +48,7 @@
 |Defocus Debluring|Remove deblueing from image using Restomer Net|[Link](https://huggingface.co/spaces/mohamed12ahmed/defocus-debluring)
 |person_detection_from_video|Detecting Person from Camera in Secueity purpose|[Link](https://github.com/mahmedahmed3355/person_detection_from_video)
 |Disease-Classification Kaggle|Plantes Disease-Classification|[Link](https://github.com/mahmedahmed3355/Disease-Classification)
+|Smart Manufacturing Machines Efficiency Prediction|predicting the operational efficiency of industrial manufacturing machine|[Link](https://github.com/mahmedahmed3355/Smart-Manufacturing-Machines-Efficiency-Prediction-)
 ---
 
 ## 🔹 Contact Me
