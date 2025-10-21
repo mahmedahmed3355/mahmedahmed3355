@@ -31,7 +31,17 @@
 | Smart-Hotel-Reservation-System-AI-Powered|LightGBM OCR Agent|[Link](https://github.com/mahmedahmed3355/Smart-Hotel-Reservation-System-AI-Powered)
 |Attentition Library for Computer vision| Several Attentition Techniques in Computer Vision|[Link](https://github.com/mahmedahmed3355/attention-in-cv)
 |CAMELYON17-Breast-Cancer-Detection| diagnose breast cancer|[Link](https://github.com/mahmedahmed3355/CAMELYON17-Breast-Cancer-Detection)|
-
+|CGIAR Root Volume Estimation Challenge|challenge to predict root volume from plant images using multi-modal data| Zindi [Link](https://github.com/mahmedahmed3355/CGIAR-Root-Volume-Estimation-Challenge)
+|ZINDI-Mapping-Floods-in-South-Africa|developing machine learning models to detect and map flood-affected|[Link](https://github.com/mahmedahmed3355/ZINDI--Mapping-Floods-in-South-Africa)
+|Text-to-MySQL Query Generator (LLM-Powered)| converts plain English (or Arabic) text instructions into executable MySQL|[Link](https://github.com/mahmedahmed3355/Text-to-MySQL-Queries)
+|AI Document Scanner (Handwritten & Printed OCR)| intelligent document scanning app using OpenCV, LSD edge detection, and Gradio to automatically detect, crop, and enhance scanned documents.|[Link](https://huggingface.co/spaces/mohamed12ahmed/OCRscanFix)
+|RLHF_notebooks| implementation for Reinforcement Learning from Human Feedback (RLHF)|[Link](https://github.com/mahmedahmed3355/RLHF_notebooks)
+|Image Editing Pro|Image Editing Professional using Pytohn and Gradio |[Link](https://huggingface.co/spaces/mohamed12ahmed/image_edit)
+|image denoise pro|Image Denoising Using MiXnet neural network|[Link](https://huggingface.co/spaces/mohamed12ahmed/image_denoise_pro)
+|Image Super resolution| Using GPEN for face enhancement and via FastAPI|[Link](https://huggingface.co/spaces/mohamed12ahmed/GPEN)
+|Smart Image Sharpnees| modify huging face space to work through Fast API|[Link](https://huggingface.co/spaces/mohamed12ahmed/smart-image-sharpening-with-analysis)
+|Multimodal Remote Sensing Analysis(GeoCLIP & Flamingo)|Multimodal Learning for Satellite Imagery and Geospatial Intelligence|[Link](https://github.com/mahmedahmed3355/Multimodal-RemoteSensing-Understanding)
+|AI_Recommandiation_System|AI Recomandation System for Sales|[Link](https://github.com/mahmedahmed3355/AI_Recommandiation_System)
 ---
 
 ## 🔹 Contact Me
@@ -45,12 +55,12 @@
 
 ## 🔹 Languages & Tools
 
-**Programming:** Python, C++, PHP, HTML5, Arduino, Flutter  
+**Programming:** Python   
 **ML & CV:** PyTorch, TensorFlow, OpenCV, scikit-learn, Pandas, Seaborn  
 **Web & Frameworks:** Django, Flask, FastAPI  
-**DevOps & Cloud:** Docker, Kubernetes, Jenkins, Heroku, GCP, Linux  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Other:** Hadoop, Qt, Git  
+**DevOps & Cloud:** Docker, Kubernetes, Jenkins, Heroku, GCP, Linux ,Airflow 
+**Databases:** Sql, PostgreSQL, MySQL, MongoDB  
+**Other:** Spark, Flutter , Git  
 
 ---
 ## Publications
