@@ -42,7 +42,7 @@
 |Smart Image Sharpnees| modify huging face space to work through Fast API|[Link](https://huggingface.co/spaces/mohamed12ahmed/smart-image-sharpening-with-analysis)
 |Multimodal Remote Sensing Analysis(GeoCLIP & Flamingo)|Multimodal Learning for Satellite Imagery and Geospatial Intelligence|[Link](https://github.com/mahmedahmed3355/Multimodal-RemoteSensing-Understanding)
 |AI_Recommandiation_System|AI Recomandation System for Sales|[Link](https://github.com/mahmedahmed3355/AI_Recommandiation_System)
-|Defocus Debluring|Remove deblueing from image using Restomer Net|https://huggingface.co/spaces/mohamed12ahmed/defocus-debluring
+|Defocus Debluring|Remove deblueing from image using Restomer Net|[Link](https://huggingface.co/spaces/mohamed12ahmed/defocus-debluring)
 ---
 
 ## 🔹 Contact Me
