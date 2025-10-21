@@ -43,6 +43,7 @@
 |Multimodal Remote Sensing Analysis(GeoCLIP & Flamingo)|Multimodal Learning for Satellite Imagery and Geospatial Intelligence|[Link](https://github.com/mahmedahmed3355/Multimodal-RemoteSensing-Understanding)
 |AI_Recommandiation_System|AI Recomandation System for Sales|[Link](https://github.com/mahmedahmed3355/AI_Recommandiation_System)
 |Defocus Debluring|Remove deblueing from image using Restomer Net|[Link](https://huggingface.co/spaces/mohamed12ahmed/defocus-debluring)
+|person_detection_from_video|Detecting Person from Camera in Secueity purpose|[Link](https://github.com/mahmedahmed3355/person_detection_from_video)
 ---
 
 ## 🔹 Contact Me
