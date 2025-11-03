@@ -37,7 +37,7 @@
 |CGIAR Root Volume Estimation Challenge|challenge to predict root volume from plant images using multi-modal data| Zindi [Link](https://github.com/mahmedahmed3355/CGIAR-Root-Volume-Estimation-Challenge)
 |ZINDI-Mapping-Floods-in-South-Africa|developing machine learning models to detect and map flood-affected|[Link](https://github.com/mahmedahmed3355/ZINDI--Mapping-Floods-in-South-Africa)
 |Text-to-MySQL Query Generator (LLM-Powered)| converts plain English (or Arabic) text instructions into executable MySQL|[Link](https://github.com/mahmedahmed3355/Text-to-MySQL-Queries)
-|AI Document Scanner (Handwritten & Printed OCR)| intelligent document scanning app using OpenCV, LSD edge detection, and Gradio to automatically detect, crop, and enhance scanned documents.|[Link](https://huggingface.co/spaces/mohamed12ahmed/OCRscanFix)
+|AI Bubble Sheet)| intelligent Bubble sheet app using OpenCV, LSD edge detection,Flutter.|[Link](https://github.com/mahmedahmed3355/Bubble-Sheet-with-Flutter)
 |RLHF_notebooks| implementation for Reinforcement Learning from Human Feedback (RLHF)|[Link](https://github.com/mahmedahmed3355/RLHF_notebooks)
 |Image Editing Pro|Image Editing Professional using Pytohn and Gradio |[Link](https://huggingface.co/spaces/mohamed12ahmed/image_edit)
 |image denoise pro|Image Denoising Using MiXnet neural network|[Link](https://huggingface.co/spaces/mohamed12ahmed/image_denoise_pro)
