@@ -67,7 +67,7 @@
 
 **Programming:** Python   
 **ML & CV:** PyTorch, TensorFlow, OpenCV, scikit-learn, Pandas, Seaborn  
-**Web & Frameworks:** Django, Flask, FastAPI ,Langchain,Langrapg,Agno,Autoagent
+**Web & Frameworks:** Django, Flask, FastAPI ,Langchain,Langrapg,Agno,Autoagent,lag-llama
 
 **DevOps & Cloud:** Docker, Kubernetes, Jenkins, Heroku, GCP, Linux ,Airflow 
 
