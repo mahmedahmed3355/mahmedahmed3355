@@ -53,7 +53,8 @@
 |msda| real-time anomaly detection from high-dimensional heterogeneous/homogeneous time series|[Link](https://github.com/mahmedahmed3355/msda)|
 |Time Series Forecasting with Lag Llama|Time Series Forecasting with Lag Llama|[Link](https://github.com/mahmedahmed3355/lag-llama)|
 |luminol| time series data analysis. |[Link]( https://github.com/mahmedahmed3355/luminol)|
-|Rain Predication|Australia-Weather-Rain-Prediction|[Link](https://github.com/mahmedahmed3355/Australia-Weather-Rain-Prediction)
+|Rain Predication|Australia-Weather-Rain-Prediction|[Link](https://github.com/mahmedahmed3355/Australia-Weather-Rain-Prediction)|
+|Well-Performance-Prediction-and-Anomaly-Detection| predicting the performance of wells in terms of gas, oil, and water production |[Link](https://github.com/mahmedahmed3355/Well-Performance-Prediction-and-Anomaly-Detection)|
 ---
 
 ## 🔹 Contact Me
