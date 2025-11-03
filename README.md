@@ -26,8 +26,8 @@
 | Project | Description | GitHub |
 |---------|-------------|--------|
 | Recommandation System | LLM + RAG + CV pipeline | [Link](https://github.com/mahmedahmed3355/AI_Recommandiation_System) |
-| AI Image Restoration App | Denoising & Super-Resolution | [Link](https://github.com/mohamed12ahmed/ai_image_restoration_app) |
-| OCR Scanner App | Multi-page scan to PDF with Tesseract | [Link](https://github.com/mohamed12ahmed/ocr_scanner_app) |
+| AI Image Restoration App | Denoising & Super-Resolution | [Link](https://huggingface.co/spaces/mohamed12ahmed/Restormer_Santi) |
+| OCR Scanner App | Multi-page scan to PDF with Tesseract | [Link](https://huggingface.co/spaces/mohamed12ahmed/OCRscanFix) |
 | Medical Imaging Diagnosis Agent | Streamlit + LLM + CV | [Link](https://github.com/mohamed12ahmed/medical_imaging_agent) |
 | AI News Agent Team | Multi-agent educational content generator | [Link](https://github.com/mahmedahmed3355/News_Research-AI) |
 | Medical Image Chatbot   | RAG+Chorme db|[Link](https://github.com/mahmedahmed3355/Medical_chatbot_RAG)|
