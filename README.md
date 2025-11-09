@@ -1,32 +1,60 @@
-# Hi 👋, I'm Mohamed El Shrbeny
-
-## AI/ML Engineer | Computer Vision & LLMs
-
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.13-red)
-<img width="163" height="20" alt="image" src="https://github.com/user-attachments/assets/6ca585dc-b1ea-4973-b3a2-85922a826741" />
-
+<!-- =============================== -->
+<!-- 🌟 HEADER SECTION -->
+<!-- =============================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Mohamed+El+Shrbeny;AI/ML+Engineer+|+Computer+Vision+%26+LLMs;Building+Intelligent+AI+Systems+🚀" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🔹 About Me
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.13-orange?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv)
 
-- Skilled **Machine Learning Engineer** with extensive experience in **Computer Vision**:
-  - Image Processing, Segmentation, Object Detection, OCR
-- Experienced in **Large Language Models (LLMs)**:
-  - Retrieval-Augmented Generation (RAG), Agents & Multi-Agent Systems
-  - Supervised Fine-Tuning (SFT) & Reinforcement Learning from Human Feedback (RLHF)
-- Proficient in **MLOps & Deployment**:
-  - Docker, Kubernetes, FastAPI, Cloud Integration (GCP, Heroku)
-- Frameworks & Tools:
-  - PyTorch, TensorFlow, OpenCV, LangChain, LangGraph, LangSmith, scikit-learn, Pandas,Jenkins,Mlflow,Kubeflow
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![LangChain](https://img.shields.io/badge/LangChain-2C2C2C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow)
+![MLflow](https://img.shields.io/badge/MLflow-0099FF?style=for-the-badge&logo=mlflow)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
+</div>
 
 ---
 
-## 🔹 Projects
+## 🧠 About Me
 
-| Project | Description | GitHub |
-|---------|-------------|--------|
+I'm a passionate **AI/ML Engineer** with a deep focus on:
+- **Computer Vision:** Image Processing, Segmentation, Object Detection, OCR  
+- **Large Language Models:** RAG, CAG, Agentic Systems, Multi-Agent Architectures  
+- **MLOps & Deployment:** FastAPI, Docker, Kubernetes, Jenkins, GCP, MLflow  
+- **Model Optimization:** LoRA, QLoRA, ONNX, Adapter Tuning, Quantization  
+
+💡 I love designing **AI systems that think, reason, and act** — combining the power of vision and language into real-world applications.
+
+---
+
+## 🚀 Highlight Projects
+
+| 🌟 Project | 🧩 Description | 🔗 GitHub |
+|-------------|----------------|-----------|
 | Recommandation System | LLM + RAG + CV pipeline | [Link](https://github.com/mahmedahmed3355/AI_Recommandiation_System) |
 | AI Image Restoration App | Denoising & Super-Resolution | [Link](https://huggingface.co/spaces/mohamed12ahmed/Restormer_Santi) |
 | OCR Scanner App | Multi-page scan to PDF with Tesseract | [Link](https://huggingface.co/spaces/mohamed12ahmed/OCRscanFix) |
@@ -59,72 +87,66 @@
 |Well-Performance-Prediction-and-Anomaly-Detection| predicting the performance of wells in terms of gas, oil, and water production |[Link](https://github.com/mahmedahmed3355/Well-Performance-Prediction-and-Anomaly-Detection)|
 |AI-Powered Assessment of Vegetable Cutting Techniques Using Multi-Modal Computer Vision Models|Assessment of Vegetable Cutting Techniques|[Link](https://github.com/mahmedahmed3355/Vegetable-Cutting-Assessment-System)|
 ---
+---
 
-## 🔹 Contact Me
+## ⚙️ Tech Stack
 
-- Email: [ML_mohamed_ahmed_87_outlook.com](mailto:ML_mohamed_ahmed_87_outlook.com)  
-- Email: [engmohamedelshrbeny@gmail.com](mailto:engmohamedelshrbeny@gmail.com)  
-- LinkedIn: [mohamed-ahmed-700019a5](https://www.linkedin.com/in/mohamed-ahmed-700019a5/)  
-- Blog: [DeepLearning4ComputerVision](https://deeplearning4computervision.blogspot.com/)
-- orcid: [Orcid Profile](https://orcid.org/0009-0001-3342-7233)
-- Turing :[Profile](https://matching.turing.com/developer-resume-preview/5a6633e073a587a1308830e22e25c3476db9225542b473)
+### 💻 Programming
+`Python` • `C++` • `SQL` • `Bash`
+
+### 🤖 AI / ML / CV
+`PyTorch` • `TensorFlow` • `OpenCV` • `scikit-learn` • `LangChain` • `LangGraph` • `Agno` • `AutoGen`  
+
+### ☁️ MLOps / Cloud
+`Docker` • `Kubernetes` • `Jenkins` • `MLflow` • `GCP` • `Airflow` • `DVC`
+
+### 🧱 Web / API
+`FastAPI` • `Flask` • `Streamlit` • `Django`
+
+### 🗃️ Databases
+`PostgreSQL` • `MySQL` • `MongoDB`
+
+### 🧰 Other Tools
+`Git` • `Spark` • `Flutter` • `Linux`
 
 ---
 
-## 🔹 Languages & Tools
+## 📚 Publications
 
-**Programming:** Python   
-**ML & CV:** PyTorch, TensorFlow, OpenCV, scikit-learn, Pandas, Seaborn  
-**Web & Frameworks:** Django, Flask, FastAPI ,Langchain,Langrapg,Agno,Autoagent,lag-llama
-
-**DevOps & Cloud:** Docker, Kubernetes, Jenkins, Heroku, GCP, Linux ,Airflow 
-
-**Databases:** Sql, PostgreSQL, MySQL, MongoDB  
-**Other:** Spark, Flutter , Git  
-
----
-## Publications
-
-**Paddy Leaf Disease Classification using an Enhanced CoAtNet with MobileNetV2 and Triple Attention**
-
-**https://zenodo.org/doi/10.5281/zenodo.17068685**
-
-**AI-Powered Assessment of Vegetable Cutting Techniques Using Multi-Modal Computer Vision Models**
-
-**https://doi.org/10.5281/zenodo.17566233**
-
-**YOLO_Kalman_TennisBall**
-
-**https://doi.org/10.5281/zenodo.17142022**
-
---
-
-## 🔹 LeetCode Stats
-
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api/?username=mahmedahmed3355&theme=dark)](https://leetcode.com/mahmedahmed3355/)
+| 🧠 Title | 🔗 DOI / Link |
+|----------|---------------|
+| **Paddy Leaf Disease Classification using Enhanced CoAtNet + MobileNetV2** | [🔗 Zenodo](https://zenodo.org/doi/10.5281/zenodo.17068685) |
+| **AI-Powered Assessment of Vegetable Cutting Techniques** | [🔗 DOI](https://doi.org/10.5281/zenodo.17566233) |
+| **YOLO + Kalman Filter for Tennis Ball Tracking** | [🔗 DOI](https://doi.org/10.5281/zenodo.17142022) |
 
 ---
 
-## 🔹 Fun Badges
+## 🧩 GitHub & LeetCode Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api/?username=mahmedahmed3355&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mahmedahmed3355&show_icons=true&locale=en&layout=compact&theme=light)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmedahmed3355&show_icons=true&theme=light)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/mohamed2236945?theme=default&font=baloo&extension=null)
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmedahmed3355&show_icons=true&locale=en&layout=compact" alt="mahmedahmed3355" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmedahmed3355&show_icons=true&locale=en" alt="mahmedahmed3355" /></p>
+## 📬 Contact Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmedahmed3355&label=Profile%20views&color=0e75b6&style=flat" alt="mahmedahmed3355" /> </p>
+📧 **Email:** [engmohamedelshrbeny@gmail.com](mailto:engmohamedelshrbeny@gmail.com)  
+🌍 **LinkedIn:** [mohamed-ahmed-700019a5](https://www.linkedin.com/in/mohamed-ahmed-700019a5/)  
+🧠 **Blog:** [DeepLearning4ComputerVision](https://deeplearning4computervision.blogspot.com/)  
+🧾 **Orcid:** [0009-0001-3342-7233](https://orcid.org/0009-0001-3342-7233)  
+💼 **Turing:** [Profile](https://matching.turing.com/developer-resume-preview/5a6633e073a587a1308830e22e25c3476db9225542b473)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmedahmed3355" alt="mahmedahmed3355" /></a> </p>
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+---
 
+## 🧠 Quote
+
+> “Turning ideas into **AI-driven realities** — one model at a time.” 🚀  
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:ADD8E6&height=100&section=footer"/>
 </div>
