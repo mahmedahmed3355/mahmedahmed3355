@@ -63,6 +63,7 @@
 - Email: [engmohamedelshrbeny@gmail.com](mailto:engmohamedelshrbeny@gmail.com)  
 - LinkedIn: [mohamed-ahmed-700019a5](https://www.linkedin.com/in/mohamed-ahmed-700019a5/)  
 - Blog: [DeepLearning4ComputerVision](https://deeplearning4computervision.blogspot.com/)
+- orcid: [Orcid Profile](https://orcid.org/0009-0001-3342-7233)
 - Turing :[Profile](https://matching.turing.com/developer-resume-preview/5a6633e073a587a1308830e22e25c3476db9225542b473)
 
 ---
