@@ -85,6 +85,14 @@
 
 **https://zenodo.org/doi/10.5281/zenodo.17068685**
 
+**AI-Powered Assessment of Vegetable Cutting Techniques Using Multi-Modal Computer Vision Models**
+
+**https://doi.org/10.5281/zenodo.17566233**
+
+**YOLO_Kalman_TennisBall**
+
+**https://doi.org/10.5281/zenodo.17142022**
+
 --
 
 ## 🔹 LeetCode Stats
