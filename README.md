@@ -57,6 +57,7 @@
 |luminol| time series data analysis. |[Link]( https://github.com/mahmedahmed3355/luminol)|
 |Rain Predication|Australia-Weather-Rain-Prediction|[Link](https://github.com/mahmedahmed3355/Australia-Weather-Rain-Prediction)|
 |Well-Performance-Prediction-and-Anomaly-Detection| predicting the performance of wells in terms of gas, oil, and water production |[Link](https://github.com/mahmedahmed3355/Well-Performance-Prediction-and-Anomaly-Detection)|
+|AI-Powered Assessment of Vegetable Cutting Techniques Using Multi-Modal Computer Vision Models|Assessment of Vegetable Cutting Techniques|[Link](https://github.com/mahmedahmed3355/Vegetable-Cutting-Assessment-System)|
 ---
 
 ## 🔹 Contact Me
