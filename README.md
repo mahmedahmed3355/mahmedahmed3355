@@ -4,6 +4,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.13-red)
+<img width="163" height="20" alt="image" src="https://github.com/user-attachments/assets/6ca585dc-b1ea-4973-b3a2-85922a826741" />
+
 
 ---
 
