@@ -87,6 +87,7 @@ I'm a passionate **AI/ML Engineer** with a deep focus on:
 |Well-Performance-Prediction-and-Anomaly-Detection| predicting the performance of wells in terms of gas, oil, and water production |[Link](https://github.com/mahmedahmed3355/Well-Performance-Prediction-and-Anomaly-Detection)|
 |AI-Powered Assessment of Vegetable Cutting Techniques Using Multi-Modal Computer Vision Models|Assessment of Vegetable Cutting Techniques|[Link](https://github.com/mahmedahmed3355/Vegetable-Cutting-Assessment-System)|
 |Fire Detection System|real-time fire detection in images and videos using a fine-tuned YOLO model|[Link](https://github.com/mahmedahmed3355/Fire-Detection-System)|
+|Tennis-Analysis-Application|tennis match analysis system|[Link](https://github.com/mahmedahmed3355/Tennis-Analysis-Application)|
 
 
 ---
