@@ -129,8 +129,7 @@ I'm a passionate **AI/ML Engineer** with a deep focus on:
 <div align="center">
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mohamed2236945?theme=dark&font=Karma&ext=contest)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mahmedahmed3355&show_icons=true&locale=en&layout=compact&theme=light)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmedahmed3355&show_icons=true&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mahmedahmed3355&layout=compact)
 
 </div>
 ---
