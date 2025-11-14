@@ -92,18 +92,21 @@ I'm a passionate **AI/ML Engineer** with a deep focus on:
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Core Tech Skills
 
-### 💻 Programming
+### 💻 Programming Languages
 `Python` • `C++` • `SQL` • `Bash`
 
-### 🤖 AI / ML / CV
-`PyTorch` • `TensorFlow` • `OpenCV` • `scikit-learn` • `LangChain` • `LangGraph` • `Agno` • `AutoGen`  
+### 🤖 AI / ML / Computer Vision
+`PyTorch` • `TensorFlow` • `OpenCV` • `scikit-learn` • `LangChain` • `LangGraph` • `Agno` • `AutoGen`
 
-### ☁️ MLOps / Cloud
+### 🔥 LLMs & Generative AI
+RAG • Agents • Multi-Agents • DSPy • Agno • CrewAI • CAG • SFT • RLHF • Prompt Engineering
+
+### ☁️ MLOps & Cloud
 `Docker` • `Kubernetes` • `Jenkins` • `MLflow` • `GCP` • `Airflow` • `DVC`
 
-### 🧱 Web / API
+### 🧱 Web & APIs
 `FastAPI` • `Flask` • `Streamlit` • `Django`
 
 ### 🗃️ Databases
