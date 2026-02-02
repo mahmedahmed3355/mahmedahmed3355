@@ -44,7 +44,7 @@
 I'm a passionate **AI/ML Engineer** with a deep focus on:
 - **Computer Vision:** Image Processing, Segmentation, Object Detection, OCR  
 - **Large Language Models:** RAG, CAG, Agentic Systems, Multi-Agent Architectures  
-- **MLOps & Deployment:** FastAPI, Docker, Kubernetes, Jenkins, GCP, MLflow  
+- **MLOps & Deployment:** FastAPI, Docker, Kubernetes, Jenkins, GCP, MLflow,Triton,Fabric manager,VLLM,Kserve,Knative,Kafka
 - **Model Optimization:** LoRA, QLoRA, ONNX, Adapter Tuning, Quantization  
 
 💡 I love designing **AI systems that think, reason, and act** — combining the power of vision and language into real-world applications.
