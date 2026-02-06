@@ -8,47 +8,116 @@
 ---
 
 <div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.13-orange?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![LangChain](https://img.shields.io/badge/LangChain-2C2C2C?style=for-the-badge&logo=chainlink&logoColor=white)
+# 🚀 MLOps & LLM Platform Engineering Stack
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow)
-![MLflow](https://img.shields.io/badge/MLflow-0099FF?style=for-the-badge&logo=mlflow)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+### ⚡ High-Performance Inference & Serving
+![vLLM](https://img.shields.io/badge/vLLM-FF9D00?style=for-the-badge&logo=rocket&logoColor=white)
+![SGLang](https://img.shields.io/badge/SGLang-007FFF?style=for-the-badge&logo=rocket&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton_Inference-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### 🧠 Large Language Models & Core AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=chainlink&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+### 🏗️ MLOps & Infrastructure Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-007DFF?style=for-the-badge&logo=kubeflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Flyte](https://img.shields.io/badge/Flyte-magenta?style=for-the-badge&logo=flyte&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-FF7F00?style=for-the-badge&logo=argo-cd&logoColor=white)
+![FluxCD](https://img.shields.io/badge/Flux_CD-00ADD8?style=for-the-badge&logo=flux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 👁️ Computer Vision & Image Intelligence
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Image_Processing](https://img.shields.io/badge/Image_Processing-005963?style=for-the-badge&logo=imagej&logoColor=white)
+![Object_Detection](https://img.shields.io/badge/Object_Detection-FFD700?style=for-the-badge&logo=google-lens&logoColor=black)
+![Segmentation](https://img.shields.io/badge/Segmentation-4CAF50?style=for-the-badge&logo=target&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-FF5722?style=for-the-badge&logo=google-keep&logoColor=white)
+
+### ⛓️ Data Engineering & Pipelines
+![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache_Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Observability & Monitoring
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
+---
+
+## 🚀 About Me  
+
+<div align="center">
+  <h1 align="center">Mohamed | AI & MLOps Infrastructure Engineer</h1>
+  <p align="center">
+    <b>Building the future of Domain-Specific LLMs</b> <br />
+    <i>Specialized in High-Performance Inference & Distributed Training Pipelines</i>
+  </p>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <br />
+      <b>Full-Stack AI & MLOps Engineer</b> dedicated to building scalable, high-performance AI systems. <br />
+      Bridging the gap between <i>Complex Deep Learning</i> and <i>Production-grade Infrastructure</i>.
+      <br /> <br />
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Strategic Expertise (Aligned with Production Standards)
+
+* **🧠 Large Language Models (LLMs)**
+  * **Agentic Systems:** Crafting Multi-Agent Architectures & Tool Usage.
+  * **Alignment:** Expert in Instruction Fine-Tuning and Alignment (DPO, PPO, RLHF).
+  * **Pipelines:** Building complete pipelines from Pretraining to Performance Monitoring.
+
+* **⚡ Model Optimization & Efficiency**
+  * **Efficient Finetuning:** Specialized in LoRA, QLoRA, and Adapter Fusion.
+  * **Distributed Training:** Scaling via DDP, Tensor Parallel, and FSDP.
+  * **Quantization:** Reducing latency using AWQ, GPTQ, and ONNX.
+
+* **🏗️ MLOps & Production Serving**
+  * **Serving:** High-throughput deployment using **vLLM**, **NVIDIA Triton**, and **KServe**.
+  * **Infrastructure:** **Kubernetes**, **Docker**, **Knative**, and **Fabric Manager**.
+  * **APIs:** Developing robust backends with **FastAPI** and **Flask**.
+
+* **👁️ Computer Vision Intelligence**
+  * Advanced **Segmentation**, **Object Detection**, and **OCR** for multimodal integration.
 
 ---
 
-## 🧠 About Me
+### 💡 My Philosophy
+> **"I don't just train models; I design AI ecosystems that think, reason, and scale. Transforming GPU raw power into seamless, real-world value."**
 
-I'm a passionate **AI/ML Engineer** with a deep focus on:
-- **Computer Vision:** Image Processing, Segmentation, Object Detection, OCR  
-- **Large Language Models:** RAG, CAG, Agentic Systems, Multi-Agent Architectures  
-- **MLOps & Deployment:** FastAPI, Docker, Kubernetes, Jenkins, GCP, MLflow,Triton,Fabric manager,VLLM,Kserve,Knative,Kafka
-- **Model Optimization:** LoRA, QLoRA, ONNX, Adapter Tuning, Quantization  
+<div align="center">
+  <h3>🛠️ Most Used Languages & Tools</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
 
-💡 I love designing **AI systems that think, reason, and act** — combining the power of vision and language into real-world applications.
+<br />
 
+<div align="center">
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-green?style=for-the-badge&logo=github" alt="Status" />
+  </a>
+</div>
 ---
 
 ## 🚀 Highlight Projects
@@ -91,29 +160,36 @@ I'm a passionate **AI/ML Engineer** with a deep focus on:
 
 
 ---
-
 ## ⚙️ Core Tech Skills
 
-### 💻 Programming Languages
-`Python` • `C++` • `SQL` • `Bash`
+### 💻 Languages & Performance
+`Python` • `Modern C++` • `SQL` • `Bash / Shell`
 
-### 🤖 AI / ML / Computer Vision
-`PyTorch` • `TensorFlow` • `OpenCV` • `scikit-learn` • `LangChain` • `LangGraph` • `Agno` • `AutoGen`
+### 🤖 AI, LLMs & Advanced Orchestration
+* **Models:** `PyTorch` • `TensorFlow` • `HuggingFace` • `Transformers`
+* **Agents:** `LangGraph` • `CrewAI` • `AutoGen` • `Agno` • `LangChain`
+* **Techniques:** `RAG` • `CAG` • `DSPy` • `Prompt Engineering` • `Agentic Workflows`
 
-### 🔥 LLMs & Generative AI
-RAG • Agents • Multi-Agents • DSPy • Agno • CrewAI • CAG • SFT • RLHF • Prompt Engineering
+### ⚡ Model Optimization & Post-Training
+* **Alignment:** `SFT` • `RLHF` • `DPO` • `PPO`
+* **Optimization:** `Quantization (AWQ/GPTQ)` • `LoRA/QLoRA` • `ONNX` • `Model Distillation`
 
-### ☁️ MLOps & Cloud
-`Docker` • `Kubernetes` • `Jenkins` • `MLflow` • `GCP` • `Airflow` • `DVC`
+### 🏗️ MLOps & Scalable Infrastructure
+* **Serving:** `vLLM` • `NVIDIA Triton` • `KServe` • `Knative`
+* **Orchestration:** `Kubernetes` • `Docker` • `ArgoCD` • `FluxCD`
+* **Pipelines:** `MLflow` • `Flyte` • `Airflow` • `DVC` • `Jenkins`
+* **Cloud:** `GCP (Google Cloud)` • `AWS` • `Fabric Manager`
 
-### 🧱 Web & APIs
-`FastAPI` • `Flask` • `Streamlit` • `Django`
+### 🗃️ Data & Cloud-Native Storage
+* **Vector DBs:** `Pinecone` • `Milvus` • `ChromaDB`
+* **Databases:** `PostgreSQL` • `MongoDB` • `MySQL` • `Redis`
+* **Big Data:** `Apache Spark` • `Kafka`
 
-### 🗃️ Databases
-`PostgreSQL` • `MySQL` • `MongoDB`
+### 👁️ Computer Vision & Multimedia
+`OpenCV` • `Image Processing` • `Object Detection` • `Segmentation` • `OCR`
 
-### 🧰 Other Tools
-`Git` • `Spark` • `Flutter` • `Linux`
+### 🧰 Tools & Platforms
+`Git` • `Linux` • `Flutter` • `FastAPI` • `Flask` • `Streamlit`
 
 ---
 
