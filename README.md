@@ -191,6 +191,28 @@
 ### 🧰 Tools & Platforms
 `Git` • `Linux` • `Flutter` • `FastAPI` • `Flask` • `Streamlit`
 
+### 📊 AI Evaluation & Benchmarking
+* **Frameworks:** `LangSmith` • `DeepEval` • `OpenAI Evals`
+* **Methods:** `LLM-as-a-Judge` • `Pairwise Evaluation` • `Human Feedback`
+* **Metrics:** `Hallucination Detection` • `Faithfulness` • `Groundedness`
+* **Benchmarks:** `Terminal Bench` • `Harbor` • `Agent Evaluation`
+
+### 🚀 GPU Computing & Optimization
+* **GPU:** `CUDA` • `cuDNN` • `NCCL`
+* **Inference:** `TensorRT` • `TensorRT-LLM`
+* **Profiling:** `Nsight Systems` • `Nsight Compute`
+* **Optimization:** `Kernel Optimization` • `Mixed Precision` • `Quantization`
+
+### 🌐 Distributed AI Systems
+* **Training:** `DDP` • `FSDP`
+* **Inference:** `Tensor Parallelism` • `Pipeline Parallelism`
+* **Communication:** `NCCL` • `NVLink`
+
+### 🔍 Retrieval & Search Systems
+* **Retrieval:** `Hybrid Search`
+* **Ranking:** `Reranking`
+* **Embedding Models`
+* **Semantic Search`
 ---
 ## Certifications
 
