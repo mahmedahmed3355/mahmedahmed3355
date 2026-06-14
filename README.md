@@ -192,7 +192,20 @@
 `Git` • `Linux` • `Flutter` • `FastAPI` • `Flask` • `Streamlit`
 
 ---
+## Certifications
 
+### Micro1 AI Certification
+
+Certified by Micro1 after successfully passing their AI technical evaluation process.
+
+- Outstanding performance in Micro1 AI Interview
+- Added to Micro1's vetted talent pool
+- Evaluated on AI engineering, problem-solving, and technical communication
+
+<p align="center">
+  <img src="micro1_certificate.png" alt="Micro1 Certification" width="800"/>
+</p>
+---
 ## 📚 Publications
 
 | 🧠 Title | 🔗 DOI / Link |
