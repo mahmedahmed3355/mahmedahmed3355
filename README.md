@@ -97,7 +97,12 @@
 
 * **👁️ Computer Vision Intelligence**
   * Advanced **Segmentation**, **Object Detection**, and **OCR** for multimodal integration.
+    
+## 🏆 Achievements & Competitions
 
+| Event | Rank | Description | Links |
+| :--- | :---: | :--- | :---: |
+| **Liltbench (Terminal Bench)** | 🥇 **#6** | Secured **6th place globally** solving complex AI agent terminal tasks and command-line automation benchmarks. | [Leaderboard](https://github.com/lilt/liltbench-tasks-public/blob/main/LEADERBOARD.md) |
 ---
 
 ### 💡 My Philosophy
