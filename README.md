@@ -259,8 +259,7 @@ Certified by Micro1 after successfully passing their AI technical evaluation pro
 
 ## 📬 Contact Me
 
-📧 **Email:** [engmohamedelshrbeny@gmail.com](mailto:engmohamedelshrbeny@gmail.com)  
-📧 **Email_2:** [ML_mohamed_ahmed_87@outlook.com](mailto:ML_mohamed_ahmed_87@outlook.com)  
+📧 **Email:** [ML_mohamed_ahmed_87@outlook.com](mailto:ML_mohamed_ahmed_87@outlook.com)  
 🌍 **LinkedIn:** [mohamed-ahmed-700019a5](https://www.linkedin.com/in/mohamed-ahmed-700019a5/)  
 🧠 **Blog:** [DeepLearning4ComputerVision](https://deeplearning4computervision.blogspot.com/)  
 🧾 **Orcid:** [0009-0001-3342-7233](https://orcid.org/0009-0001-3342-7233)  
