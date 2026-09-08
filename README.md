@@ -18,6 +18,7 @@
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 ### 🧠 Large Language Models & Core AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -57,8 +58,8 @@
 
 [![Liltbench Rank](https://img.shields.io/badge/Liltbench%20Leaderboard-6th%20Place-gold?style=for-the-badge&logo=github)](https://github.com/lilt/liltbench-tasks-public/blob/main/LEADERBOARD.md)
 
-
 </div>
+
 ---
 
 ## 🚀 About Me  
@@ -66,8 +67,8 @@
 <div align="center">
   <h1 align="center">Mohamed | AI & MLOps Infrastructure Engineer</h1>
   <p align="center">
-    <b>Building the future of Domain-Specific LLMs</b> <br />
-    <i>Specialized in High-Performance Inference & Distributed Training Pipelines</i>
+    <b>Building the future of Domain-Specific LLMs & Agentic Evaluation Environments</b> <br />
+    <i>Specialized in High-Performance Inference, RL Environments, and Distributed Pipelines</i>
   </p>
 </div>
 
@@ -84,9 +85,9 @@
 
 ### 🛠️ Strategic Expertise (Aligned with Production Standards)
 
-* **🧠 Large Language Models (LLMs)**
-  * **Agentic Systems:** Crafting Multi-Agent Architectures & Tool Usage.
-  * **Alignment:** Expert in Instruction Fine-Tuning and Alignment (DPO, PPO, RLHF).
+* **🧠 Large Language Models & Agentic Evaluation**
+  * **Agentic Systems & RL Environments:** Designing Gymnasium & OpenEnv benchmarks for long-horizon evaluation.
+  * **Alignment & Benchmarking:** Expert in Instruction Fine-Tuning, Alignment (DPO, PPO, RLHF), and Anti-Cheat Verifiers.
   * **Pipelines:** Building complete pipelines from Pretraining to Performance Monitoring.
 
 * **⚡ Model Optimization & Efficiency**
@@ -101,12 +102,13 @@
 
 * **👁️ Computer Vision Intelligence**
   * Advanced **Segmentation**, **Object Detection**, and **OCR** for multimodal integration.
-    
+
 ## 🏆 Achievements & Competitions
 
 | Event | Rank | Description | Links |
 | :--- | :---: | :--- | :---: |
 | **Liltbench (Terminal Bench)** | 🥇 **#6** | Secured **6th place globally** solving complex AI agent terminal tasks and command-line automation benchmarks. | [Leaderboard](https://github.com/lilt/liltbench-tasks-public/blob/main/LEADERBOARD.md) |
+
 ---
 
 ### 💡 My Philosophy
@@ -123,52 +125,38 @@
 <br />
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:ML_mohamed_ahmed_87@outlook.com">
     <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-green?style=for-the-badge&logo=github" alt="Status" />
   </a>
 </div>
+
 ---
 
 ## 🚀 Highlight Projects
 
-| 🌟 Project | 🧩 Description | 🔗 GitHub |
+| 🌟 Project | 🧩 Description | 🔗 Link |
 |-------------|----------------|-----------|
-| Recommandation System | LLM + RAG + CV pipeline | [Link](https://github.com/mahmedahmed3355/AI_Recommandiation_System) |
-| AI Image Restoration App | Denoising & Super-Resolution | [Link](https://huggingface.co/spaces/mohamed12ahmed/Restormer_Santi) |
-| OCR Scanner App | Multi-page scan to PDF with Tesseract | [Link](https://huggingface.co/spaces/mohamed12ahmed/OCRscanFix) |
+| **AgentForge-Bench** | Benchmark suite for evaluating autonomous AI agents on realistic, multi-step terminal and environment-based tasks (Gymnasium & OpenEnv wrapped). | [GitHub Link](https://github.com/mahmedahmed3355/AgentForge-Bench) |
+| **AI Code Evaluation Benchmarks** | Terminal-Bench 3–style evaluation tasks covering CUDA/GPU engineering, backend systems, distributed infrastructure, algorithms, and multilingual evaluation. | [GitHub Link](https://github.com/mahmedahmed3355/ai-code-evaluation-benchmarks) |
+| Recommendation System | LLM + RAG + CV pipeline | [Link](https://github.com/mahmedahmed3355/AI_Recommandiation_System) |
+| AI Image Restoration App | Denoising & Super-Resolution | [HuggingFace](https://huggingface.co/spaces/mohamed12ahmed/Restormer_Santi) |
+| OCR Scanner App | Multi-page scan to PDF with Tesseract | [HuggingFace](https://huggingface.co/spaces/mohamed12ahmed/OCRscanFix) |
 | Medical Imaging Diagnosis Agent | Streamlit + LLM + CV | [Link](https://github.com/mohamed12ahmed/medical_imaging_agent) |
 | AI News Agent Team | Multi-agent educational content generator | [Link](https://github.com/mahmedahmed3355/News_Research-AI) |
-| Medical Image Chatbot   | RAG+Chorme db|[Link](https://github.com/mahmedahmed3355/Medical_chatbot_RAG)|
-| Smart-Hotel-Reservation-System-AI-Powered|LightGBM OCR Agent|[Link](https://github.com/mahmedahmed3355/Smart-Hotel-Reservation-System-AI-Powered)
-|Attentition Library for Computer vision| Several Attentition Techniques in Computer Vision|[Link](https://github.com/mahmedahmed3355/attention-in-cv)
-|CAMELYON17-Breast-Cancer-Detection| diagnose breast cancer|[Link](https://github.com/mahmedahmed3355/CAMELYON17-Breast-Cancer-Detection)|
-|CGIAR Root Volume Estimation Challenge|challenge to predict root volume from plant images using multi-modal data| Zindi [Link](https://github.com/mahmedahmed3355/CGIAR-Root-Volume-Estimation-Challenge)
-|ZINDI-Mapping-Floods-in-South-Africa|developing machine learning models to detect and map flood-affected|[Link](https://github.com/mahmedahmed3355/ZINDI--Mapping-Floods-in-South-Africa)
-|Text-to-MySQL Query Generator (LLM-Powered)| converts plain English (or Arabic) text instructions into executable MySQL|[Link](https://github.com/mahmedahmed3355/Text-to-MySQL-Queries)
-|AI Bubble Sheet)| intelligent Bubble sheet app using OpenCV, LSD edge detection,Flutter.|[Link](https://github.com/mahmedahmed3355/Bubble-Sheet-with-Flutter)
-|RLHF_notebooks| implementation for Reinforcement Learning from Human Feedback (RLHF)|[Link](https://github.com/mahmedahmed3355/RLHF_notebooks)
-|Image Editing Pro|Image Editing Professional using Pytohn and Gradio |[Link](https://huggingface.co/spaces/mohamed12ahmed/image_edit)
-|image denoise pro|Image Denoising Using MiXnet neural network|[Link](https://huggingface.co/spaces/mohamed12ahmed/image_denoise_pro)
-|Image Super resolution| Using GPEN for face enhancement and via FastAPI|[Link](https://huggingface.co/spaces/mohamed12ahmed/GPEN)
-|Smart Image Sharpnees| modify huging face space to work through Fast API|[Link](https://huggingface.co/spaces/mohamed12ahmed/smart-image-sharpening-with-analysis)
-|Multimodal Remote Sensing Analysis(GeoCLIP & Flamingo)|Multimodal Learning for Satellite Imagery and Geospatial Intelligence|[Link](https://github.com/mahmedahmed3355/Multimodal-RemoteSensing-Understanding)
-|AI_Recommandiation_System|AI Recomandation System for Sales|[Link](https://github.com/mahmedahmed3355/AI_Recommandiation_System)
-|Defocus Debluring|Remove deblueing from image using Restomer Net|[Link](https://huggingface.co/spaces/mohamed12ahmed/defocus-debluring)
-|person_detection_from_video|Detecting Person from Camera in Secueity purpose|[Link](https://github.com/mahmedahmed3355/person_detection_from_video)
-|Disease-Classification Kaggle|Plantes Disease-Classification|[Link](https://github.com/mahmedahmed3355/Disease-Classification)
-|Smart Manufacturing Machines Efficiency Prediction|predicting the operational efficiency of industrial manufacturing machine|[Link](https://github.com/mahmedahmed3355/Smart-Manufacturing-Machines-Efficiency-Prediction-)
-|AI-Music-Composer|AI Muisc Composer from End to end K8,Jenkins,GCP|[Link](https://github.com/mahmedahmed3355/-AI-Music-Composer-)
-|msda| real-time anomaly detection from high-dimensional heterogeneous/homogeneous time series|[Link](https://github.com/mahmedahmed3355/msda)|
-|Time Series Forecasting with Lag Llama|Time Series Forecasting with Lag Llama|[Link](https://github.com/mahmedahmed3355/lag-llama)|
-|luminol| time series data analysis. |[Link]( https://github.com/mahmedahmed3355/luminol)|
-|Rain Predication|Australia-Weather-Rain-Prediction|[Link](https://github.com/mahmedahmed3355/Australia-Weather-Rain-Prediction)|
-|Well-Performance-Prediction-and-Anomaly-Detection| predicting the performance of wells in terms of gas, oil, and water production |[Link](https://github.com/mahmedahmed3355/Well-Performance-Prediction-and-Anomaly-Detection)|
-|AI-Powered Assessment of Vegetable Cutting Techniques Using Multi-Modal Computer Vision Models|Assessment of Vegetable Cutting Techniques|[Link](https://github.com/mahmedahmed3355/Vegetable-Cutting-Assessment-System)|
-|Fire Detection System|real-time fire detection in images and videos using a fine-tuned YOLO model|[Link](https://github.com/mahmedahmed3355/Fire-Detection-System)|
-|Tennis-Analysis-Application|tennis match analysis system|[Link](https://github.com/mahmedahmed3355/Tennis-Analysis-Application)|
-
+| Medical Image Chatbot | RAG + ChromaDB | [Link](https://github.com/mahmedahmed3355/Medical_chatbot_RAG) |
+| Smart Hotel Reservation System | LightGBM OCR Agent | [Link](https://github.com/mahmedahmed3355/Smart-Hotel-Reservation-System-AI-Powered) |
+| Attention Library for Computer Vision | Several Attention Techniques in Computer Vision | [Link](https://github.com/mahmedahmed3355/attention-in-cv) |
+| CAMELYON17 Breast Cancer Detection | Diagnose breast cancer via deep learning | [Link](https://github.com/mahmedahmed3355/CAMELYON17-Breast-Cancer-Detection) |
+| CGIAR Root Volume Estimation Challenge | Predict root volume from plant images using multi-modal data | [Link](https://github.com/mahmedahmed3355/CGIAR-Root-Volume-Estimation-Challenge) |
+| ZINDI Mapping Floods in South Africa | ML models to detect and map flood-affected areas | [Link](https://github.com/mahmedahmed3355/ZINDI--Mapping-Floods-in-South-Africa) |
+| Text-to-MySQL Query Generator | Converts natural text (English/Arabic) into executable MySQL | [Link](https://github.com/mahmedahmed3355/Text-to-MySQL-Queries) |
+| AI Bubble Sheet | Intelligent Bubble sheet app using OpenCV, LSD edge detection, Flutter | [Link](https://github.com/mahmedahmed3355/Bubble-Sheet-with-Flutter) |
+| RLHF Notebooks | Implementation for Reinforcement Learning from Human Feedback (RLHF) | [Link](https://github.com/mahmedahmed3355/RLHF_notebooks) |
+| Multimodal Remote Sensing Analysis | Multimodal Learning for Satellite Imagery (GeoCLIP & Flamingo) | [Link](https://github.com/mahmedahmed3355/Multimodal-RemoteSensing-Understanding) |
+| AI Music Composer | End-to-end AI Music Composer (K8s, Jenkins, GCP) | [Link](https://github.com/mahmedahmed3355/-AI-Music-Composer-) |
 
 ---
+
 ## ⚙️ Core Tech Skills
 
 ### 💻 Languages & Performance
@@ -200,11 +188,11 @@
 ### 🧰 Tools & Platforms
 `Git` • `Linux` • `Flutter` • `FastAPI` • `Flask` • `Streamlit`
 
-### 📊 AI Evaluation & Benchmarking
-* **Frameworks:** `LangSmith` • `DeepEval` • `OpenAI Evals`
-* **Methods:** `LLM-as-a-Judge` • `Pairwise Evaluation` • `Human Feedback`
-* **Metrics:** `Hallucination Detection` • `Faithfulness` • `Groundedness`
-* **Benchmarks:** `Terminal Bench` • `Harbor` • `Agent Evaluation`
+### 📊 AI Evaluation, Benchmarking & RL Environments
+* **Frameworks & Framework Design:** `Harbor` • `Terminal-Bench` • `Gymnasium Wrappers` • `OpenEnv` • `LangSmith` • `DeepEval`
+* **Evaluation Protocols:** `Multi-step Terminal Benchmarking` • `LLM-as-a-Judge` • `Pairwise Evaluation` • `Human Feedback`
+* **Infrastructure & Verification:** `Isolated Docker Provisioning` • `Deterministic Verifiers & Oracle Validation` • `Trajectory Logging & Anti-Cheat Auditing`
+* **Benchmarks Built:** `AgentForge-Bench` • `AI Code Evaluation Benchmarks (Terminal-Bench 3 style)`
 
 ### 🚀 GPU Computing & Optimization
 * **GPU:** `CUDA` • `cuDNN` • `NCCL`
@@ -220,9 +208,10 @@
 ### 🔍 Retrieval & Search Systems
 * **Retrieval:** `Hybrid Search`
 * **Ranking:** `Reranking`
-* **Embedding Models`
-* **Semantic Search`
+* **Embeddings:** `Semantic Search`
+
 ---
+
 ## Certifications
 
 ### Micro1 AI Certification
@@ -236,7 +225,9 @@ Certified by Micro1 after successfully passing their AI technical evaluation pro
 <p align="center">
   <img src="micro1_certificate.png" alt="Micro1 Certification" width="800"/>
 </p>
+
 ---
+
 ## 📚 Publications
 
 | 🧠 Title | 🔗 DOI / Link |
@@ -255,6 +246,7 @@ Certified by Micro1 after successfully passing their AI technical evaluation pro
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mahmedahmed3355&layout=compact)
 
 </div>
+
 ---
 
 ## 📬 Contact Me
@@ -262,7 +254,7 @@ Certified by Micro1 after successfully passing their AI technical evaluation pro
 📧 **Email:** [ML_mohamed_ahmed_87@outlook.com](mailto:ML_mohamed_ahmed_87@outlook.com)  
 🌍 **LinkedIn:** [mohamed-ahmed-700019a5](https://www.linkedin.com/in/mohamed-ahmed-700019a5/)  
 🧠 **Blog:** [DeepLearning4ComputerVision](https://deeplearning4computervision.blogspot.com/)  
-🧾 **Orcid:** [0009-0001-3342-7233](https://orcid.org/0009-0001-3342-7233)  
+🧾 **ORCID:** [0009-0001-3342-7233](https://orcid.org/0009-0001-3342-7233)  
 💼 **Turing:** [Profile](https://matching.turing.com/developer-resume-preview/5a6633e073a587a1308830e22e25c3476db9225542b473)
 
 ---
