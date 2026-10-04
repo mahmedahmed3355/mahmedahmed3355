@@ -252,7 +252,7 @@ Certified by Micro1 after successfully passing their AI technical evaluation pro
 ## 📬 Contact Me
 
 📧 **Email:** [ML_mohamed_ahmed_87@outlook.com](mailto:ML_mohamed_ahmed_87@outlook.com)  
-🌍 **LinkedIn:** [mohamed-ahmed-700019a5](https://www.linkedin.com/in/mohamed-ahmed-700019a5/)  
+🌍 **LinkedIn:** [mohamed-ahmed-687209383]([https://www.linkedin.com/in/mohamed-ahmed-687209383/])  
 🧠 **Blog:** [DeepLearning4ComputerVision](https://deeplearning4computervision.blogspot.com/)  
 🧾 **ORCID:** [0009-0001-3342-7233](https://orcid.org/0009-0001-3342-7233)  
 💼 **Turing:** [Profile](https://matching.turing.com/developer-resume-preview/5a6633e073a587a1308830e22e25c3476db9225542b473)
