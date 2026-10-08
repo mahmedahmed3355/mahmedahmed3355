@@ -137,7 +137,7 @@
 | 🌟 Project | 🧩 Description | 🔗 Link |
 |-------------|----------------|-----------|
 | **AgentForge-Bench** | Benchmark suite for evaluating autonomous AI agents on realistic, multi-step terminal and environment-based tasks (Gymnasium & OpenEnv wrapped). | [GitHub Link](https://github.com/mahmedahmed3355/AgentForge-Bench) |
-| **AI Code Evaluation Benchmarks** | Terminal-Bench 3–style evaluation tasks covering CUDA/GPU engineering, backend systems, distributed infrastructure, algorithms, and multilingual evaluation. | [GitHub Link](https://github.com/mahmedahmed3355/ai-code-evaluation-benchmarks) |
+| **AI Code Evaluation Benchmarks** | Terminal-Bench 3–style evaluation tasks covering CUDA/GPU engineering, backend systems, distributed infrastructure, algorithms, and multilingual evaluation. | [GitHub Link](https://mahmedahmed3355.github.io/ai-code-evaluation-benchmarks) |
 | Recommendation System | LLM + RAG + CV pipeline | [Link](https://github.com/mahmedahmed3355/AI_Recommandiation_System) |
 | AI Image Restoration App | Denoising & Super-Resolution | [HuggingFace](https://huggingface.co/spaces/mohamed12ahmed/Restormer_Santi) |
 | OCR Scanner App | Multi-page scan to PDF with Tesseract | [HuggingFace](https://huggingface.co/spaces/mohamed12ahmed/OCRscanFix) |
