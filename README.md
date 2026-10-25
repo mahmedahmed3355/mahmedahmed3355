@@ -56,8 +56,7 @@
 
 ## 🏆 Highlights & Achievements
 
-[![Liltbench Rank](https://img.shields.io/badge/Liltbench%20Leaderboard-6th%20Place-gold?style=for-the-badge&logo=github)](https://github.com/lilt/liltbench-tasks-public/blob/main/LEADERBOARD.md)
-
+[![LILTBench](https://img.shields.io/badge/LILTBench%20Hackathon-Task%20Author-blue?style=for-the-badge&logo=github)](https://github.com/lilt/liltbench-tasks-public/blob/main/LEADERBOARD.md)
 </div>
 
 ---
@@ -107,8 +106,7 @@
 
 | Event | Rank | Description | Links |
 | :--- | :---: | :--- | :---: |
-| **Liltbench (Terminal Bench)** | 🥇 **#6** | Secured **6th place globally** solving complex AI agent terminal tasks and command-line automation benchmarks. | [Leaderboard](https://github.com/lilt/liltbench-tasks-public/blob/main/LEADERBOARD.md) |
-
+| **LILTBench Hackathon** (Lilt × AI Collective) | **#6 / 7 teams** | Authored 3 Arabic evaluation tasks (Easy → Very Hard) for a 92-task multilingual LLM benchmark; one task scored a perfect 15/15. | [Leaderboard](https://github.com/lilt/liltbench-tasks-public/blob/main/LEADERBOARD.md) |
 ---
 
 ### 💡 My Philosophy
